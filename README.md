@@ -27,4 +27,45 @@ This project analyzes customer shopping behavior using retail transaction data t
 
 ## SQL Analysis
 Performed business-focused analysis using CTEs, window functions, joins, and aggregations:
-- Revenue analysis
+- Revenue analysis by gender
+- Identification of high-spending discount users
+- Top-rated products based on customer reviews
+- Spending comparison by shipping type
+- Subscriber vs non-subscriber revenue analysis
+- Detection of discount-dependent products
+- Customer segmentation into New, Returning, and Loyal
+- Top 3 products per category
+- Subscription behavior of repeat buyers
+- Revenue contribution by age group
+
+## Power BI Dashboard
+Built an interactive Power BI dashboard to visualize:
+- Revenue trends by category, age group, and gender
+- Customer segmentation distribution
+- Subscription and shipping preferences
+- Key KPIs including average purchase value and review ratings
+
+## Key Business Insights
+- Loyal customers contribute the majority of total purchases
+- Male customers generate significantly higher revenue
+- Targeted discounts can drive high-value purchases
+- Young adults are the highest revenue-generating age group
+- Express shipping users have a higher average spend
+
+## Business Recommendations
+- Promote subscription benefits to convert non-subscribers
+- Strengthen customer loyalty programs
+- Optimize discount strategies to protect margins
+- Highlight top-rated and best-selling products
+- Focus marketing efforts on high-revenue customer segments
+
+## Future Enhancements
+- Automate data ingestion and processing
+- Add predictive analytics for customer behavior
+- Deploy dashboards using Power BI Service
+
+## Author
+Anshuman Singh  
+B.Tech (ECE) | Aspiring Data Analyst  
+Skills: Python, SQL, PostgreSQL, Power BI, Data Analysis
+
